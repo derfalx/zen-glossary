@@ -1,0 +1,1 @@
+This repository contains the zen-glossary presented at https://zen-glossar.shoujin.dev
